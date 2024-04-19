@@ -1,2 +1,2 @@
-# simple-tcp-server-in-go
-A simple tcp server written in go
+# echo-tcp-server-in-go
+An echo tcp server written in go
